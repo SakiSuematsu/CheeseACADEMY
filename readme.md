@@ -1,21 +1,26 @@
 # チーズアカデミー
 
-## チーズアカデミーの紹介
+## DEMO
 
-- 最初の課題  
+  - https://sakisuematsu.github.io/CheeseACADEMY/
 
-## 工夫した点，こだわった点
+## 紹介と使い方
 
-- moreボタンを押したら、ももちゃん（犬）登場！  
+  - 最初の課題。htmlとcssだけのシンプルなページです
 
-- CSSだけでスライドショーを作ったこと  
+## 工夫した点
 
-## 苦戦した点，共有したいハマりポイントなど
+  - CSSだけでスライドショーを作ったこと  
 
-- CSSでできることが想像よりあって楽しかった！  
+  - moreボタンを押したら、ももちゃん（犬）登場！
 
-## issue
+## 苦戦した点
 
-- GoogleMapにアイコンを表示すること  
+  - GoogleMapにアイコンを表示することができなかった  
 
-- Contactの問い合わせフォームの詳細欄にhoverした時に枠線が少し小さくなること
+  - Contactの問い合わせフォームの詳細欄にhoverした時に枠線が少し小さくなる謎が解けなかった
+
+## 参考にした web サイトなど
+
+  - https://yumegori.com/infinity-scroll-making-method
+  - https://csshtml.work/button-on-off/#CSS
